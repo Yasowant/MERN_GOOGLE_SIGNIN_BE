@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Babel cache
+.babelrc.js
+.babelrc
+
+# ESLint cache
+.eslintcache
+
+# Next.js build
+.next/
+
+# Storybook build
+.storybook-out/
+
+# TypeScript build
+*.tsbuildinfo
+
+# Misc
+public/temp/
+.tmp/
